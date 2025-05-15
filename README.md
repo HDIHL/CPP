@@ -20,6 +20,7 @@
   <div>
       <p>D u b r o v i n</p>
       <p>D a n i i l</p>
+      <K o l o m i e t s </p>
   </div>
 </section>
 
